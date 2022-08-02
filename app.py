@@ -11,7 +11,7 @@ st.sidebar.info(
     """
     Web App URL: <*>
     \n
-    GitHub Respository: <https://github.com/inspiritai-tech/streamlit-templates>
+    GitHub Respository: <https://github.com/emmyscode/streamlit-templates>
     """
 )
 
@@ -19,7 +19,7 @@ st.sidebar.title("Contact")
 st.sidebar.info(
     """
     Inspirit AI: <https://www.inspiritai.com>
-    [GitHub](https://github.com/inspiritai-tech) | [LinkedIn](https://www.linkedin.com/company/inspirit-ai/)
+    [GitHub](https://github.com/emmyscode) | [LinkedIn](https://www.linkedin.com/in/em-li)
     """
 )
 
