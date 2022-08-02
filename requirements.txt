@@ -1,0 +1,8 @@
+streamlit==1.11.0
+numpy==1.23.1
+matplotlib==3.5.2
+pandas==1.4.3
+tensorflow==2.9.1
+opencv-python-headless==4.6.0.66
+Pillow==9.2.0
+streamlit_drawable_canvas==0.9.1
